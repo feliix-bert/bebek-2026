@@ -1,2 +1,3 @@
 Prisma  : https://github.com/ak7prisma/Card-Battle
 Fachri S: https://github.com/fachriisy/bebek-fachri.git
+m.farrel rf: https://github.com/qiuFrrl/tugas.git
